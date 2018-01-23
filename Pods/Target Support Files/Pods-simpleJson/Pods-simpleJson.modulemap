@@ -1,0 +1,6 @@
+framework module Pods_simpleJson {
+  umbrella header "Pods-simpleJson-umbrella.h"
+
+  export *
+  module * { export * }
+}
